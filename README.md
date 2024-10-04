@@ -1,6 +1,6 @@
 # GlobalLogic First Technical Interview
 
-After my first technical interview in GlobalLogic went horribly wrong, I decided to solve the exercises that I was challenged with during the interview so I could practice.
+After my first technical interview in GlobalLogic went horribly wrong, I decided to solve the exercises that I was challenged with so I could practice.
 
 ## 1.- Produce a StackOverflow exception
 ```
